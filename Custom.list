@@ -29,11 +29,12 @@ DOMAIN-SUFFIX,jk4dlx-launches.appsflyersdk.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,static-assets.gotinder.com
 DOMAIN-SUFFIX,jk4dlx-dlsdk.appsflyersdk.com
-#自己用
-DOMAIN-SUFFIX,lunaproxy.com
-DOMAIN-SUFFIX,sms-activate.org
+
 #匹配域名关键字
 DOMAIN-KEYWORD,tinder
 DOMAIN-KEYWORD,appsflyersdk
 DOMAIN-KEYWORD,bugsnag
+#自己用
+DOMAIN-SUFFIX,lunaproxy.com
+DOMAIN-SUFFIX,sms-activate.org
 
